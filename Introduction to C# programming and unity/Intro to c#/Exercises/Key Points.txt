@@ -1,0 +1,13 @@
+if a class is static   >>>>  when calling the method of that class we have to use that class name.
+EXAMPLE:  Math.sqr()
+
+
+if class is not static >>> when calling the method, we have to specify the object name.
+
+
+Deck deck  = new Deck(); 
+
+{Deck is class name , deck is object,  new Deck() is contructor to create the class }
+
+*, When we call contructor or method we put ()
+When call property no ().
